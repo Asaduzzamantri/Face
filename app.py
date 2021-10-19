@@ -8,7 +8,7 @@ from tensorflow.keras.applications.resnet50 import preprocess_input
 
 app = Flask(__name__)
 
-model = load_model('/Users/needapsychiatrist/Downloads/model_inception.h5')
+model = load_model('model_inception.h5')
 
 @app.route('/')
 def index():
