@@ -8,6 +8,4 @@ scikit-learn
 werkzeug
 keras==2.6.0
 Keras-Preprocessing==1.1.2
-tensorflow-estimator==2.6.0
-tensorflow-gpu==2.6.0
 opencv-contrib-python==4.5.3.56
